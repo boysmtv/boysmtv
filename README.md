@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @boysmtv
 - 👀 I’m interested in Mobile Developer
-- 🌱 I’m currently learning Mvvm, Koin & Clean Architecture
+- 🌱 I’m currently learning Kotlin, Mvvm, Koin, Coroutine & Clean Architecture
 
 <!---
 boysmtv/boysmtv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
